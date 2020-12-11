@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Hugo Theme MemE</title>
-    <link>https://example.com/categories/</link>
+    <link>https://kimjim.github.io/categories/</link>
     <description>Recent content in Categories on Hugo Theme MemE</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -10,7 +10,7 @@
     <webMaster>reuixiy@gmail.com (reuixiy)</webMaster>
     <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
     
-	<atom:link href="https://example.com/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://kimjim.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
