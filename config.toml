@@ -50,6 +50,7 @@ uglyURLs = false
 [permalinks]
     categories = "/categories/:slug/"
     tags = "/tags/:slug/"
+   
 
 # Taxonomies
 [taxonomies]
@@ -96,17 +97,17 @@ uglyURLs = false
 # Author’s information
 [author]
     # Name
-    name = "reuixiy"
+    name = "苦瓜先生"
     # Email
-    email = "reuixiy@gmail.com"
+    email = "liangdu1992@gmail.com"
     # Motto or introduction
     motto = "Viva La Vida"
     # Avatar
     avatar = "/icons/apple-touch-icon.png"
     # Personal website, default: baseURL
-    website = "https://io-oi.me/"
+    website = "https://github.com/xiaokugua250"
     # Twitter
-    twitter = "reuixiy"
+    twitter = "xiaokugua250"
 
 # Related content
 [related]
@@ -344,7 +345,7 @@ uglyURLs = false
     # Note: used for HTML head meta, JSON-LD,
     #       Open Graph, Atom, RSS
 
-    siteCreatedTime = "1969-07-20T20:17:43+00:00"
+    siteCreatedTime = "2020-07-20T20:17:43+00:00"
     # ATTENTION: keep this format, change
     #            the number
 
