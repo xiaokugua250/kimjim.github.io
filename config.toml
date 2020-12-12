@@ -2,7 +2,7 @@
 # Site Settings
 
 baseURL = "https://xiaokugua250.github.io/"
-title = "Hugo Theme MemE"
+title = "苦瓜先生的站点"
 languageCode = "en"
 hasCJKLanguage = false
 # Copyright information (Markdown supported)
@@ -55,6 +55,8 @@ uglyURLs = false
 [taxonomies]
     category = "categories"
     tag = "tags"
+    series = "series"
+
 
 # Modified date
 [frontmatter]

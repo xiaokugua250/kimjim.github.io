@@ -1,6 +1,11 @@
 ---
 title: "Perch 项目简介"
 date: 2020-12-11T20:05:39+08:00
+draft: false
+title: "Blog养成记(4) 增加tags等分类"
+tags: ["hugo"]
+series: ["Blog养成记"]
+categories: ["杂技浅尝"]
 draft: true
 ---
 
