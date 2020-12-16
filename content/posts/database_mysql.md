@@ -1,11 +1,17 @@
 ---
-title: "database"
+title: "MySQL数据库基础与性能优化"
 date: 2020-12-11T20:05:39+08:00
 draft: false
+tags: ["MySQL","Database"]
+categories: ["MySQL","数据库与存储",]
 ---
 
-## Welcome to GitHub Pages
+## SQL基础
 
+
+## MySQL基础
+
+## MySQL性能优化
 You can use the [editor on GitHub](https://github.com/xiaokugua250/perch/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
